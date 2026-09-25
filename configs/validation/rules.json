@@ -1,0 +1,6 @@
+{
+  "negative_keywords": ["employment", "hours"],
+  "percentage_keywords": ["share", "percent", "percentage", "rate"],
+  "large_jump_ratio": 10.0
+}
+

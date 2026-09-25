@@ -1,0 +1,1 @@
+"""Non-destructive quality validation."""

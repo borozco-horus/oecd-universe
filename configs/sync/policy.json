@@ -1,0 +1,13 @@
+{
+  "catalog_page_size": 100,
+  "series_page_size": 1000,
+  "max_acquisition_datasets": 10,
+  "max_series_per_dataset": 5000,
+  "safe_free_space_fraction": 0.70,
+  "request_delay_seconds": 0.25,
+  "priority_terms": [
+    "STAN", "productivity", "national accounts", "employment", "labour", "wage",
+    "income distribution", "tax", "trade", "business dynamics", "digital"
+  ]
+}
+
