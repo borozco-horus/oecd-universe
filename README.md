@@ -73,9 +73,9 @@ values before variable construction.
 
 ## Technical walkthrough
 
-[Bruno Orozco's technical walkthrough](https://brunoorozco.com/proyectos/oecd-universe/)
+[Bruno Orozco Mejía's technical walkthrough](https://brunoorozco.com/proyectos/oecd-universe/)
 explains the artifact hashes, dimension model, DuckDB views, reproducible tests and limits of v0.1
-in Spanish. For professional background and contact, visit [Bruno Orozco](https://brunoorozco.com/).
+in Spanish. For professional background and contact, visit [Bruno Orozco Mejía](https://brunoorozco.com/).
 
 ## Contributing
 
