@@ -8,6 +8,8 @@ An auditable, storage-aware foundation for discovering and structuring the OECD 
 It turns OECD/DBnomics metadata and observations into reproducible BRONZE/SILVER artifacts and a
 queryable DuckDB view—without pretending that raw data is a research-ready GOLD panel.
 
+Personal project by [Bruno Orozco Mejía](https://brunoorozco.com/), a backend developer in Mexico City.
+
 > **Status:** early foundation (v0.1). The repository contains code and configuration, not downloaded
 > datasets. Acquisition is deliberately selective and guarded by a storage estimate.
 
