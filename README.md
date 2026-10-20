@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-2ea44f)
 ![Data](https://img.shields.io/badge/data-local%20%26%20auditable-0f766e)
 
+**Resumen en español:** `oecd-universe` ayuda a localizar series de tiempo económicas de la OCDE y DBnomics, elegir cuáles descargar y conservar la fuente para poder consultarla después. Busca reducir el tiempo que se pierde al encontrar indicadores y reconstruir de dónde salieron los datos. Es un proyecto en etapa inicial: el repositorio contiene código y configuración, no datasets descargados. Lo desarrolla [Bruno Orozco Mejía](https://brunoorozco.com/). [Lee el caso técnico en español](https://brunoorozco.com/proyectos/oecd-universe/).
+
 An auditable, storage-aware foundation for discovering and structuring the OECD public-data universe.
 It turns OECD/DBnomics metadata and observations into reproducible BRONZE/SILVER artifacts and a
 queryable DuckDB view—without pretending that raw data is a research-ready GOLD panel.
