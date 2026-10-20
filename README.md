@@ -71,6 +71,12 @@ authority for dataflow identity, version, descriptions, and related bulk resourc
 is never inferred from similar titles. Research-critical datasets must be verified against official OECD
 values before variable construction.
 
+## Technical walkthrough
+
+[Bruno Orozco's technical walkthrough](https://brunoorozco.com/proyectos/oecd-universe/)
+explains the artifact hashes, dimension model, DuckDB views, reproducible tests and limits of v0.1
+in Spanish. For professional background and contact, visit [Bruno Orozco](https://brunoorozco.com/).
+
 ## Contributing
 
 Focused issues and pull requests are welcome. Please keep provenance intact, avoid committing generated
